@@ -1,6 +1,5 @@
 
-# CODSOFT
-This GitHub Repository contains the solutions to the tasks provided by CodSoft as a part of the internship in C++ programming. The repository contains the code of the respective three tasks with proper indentations and comments for the ease of the reader of the same. 
+This GitHub Repository contains the solutions to the tasks  in C++ programming. The repository contains the code of the respective three tasks with proper indentations and comments for the ease of the reader of the same. 
 <br>
 I've shared the tasks for the internship below.
 <br>
